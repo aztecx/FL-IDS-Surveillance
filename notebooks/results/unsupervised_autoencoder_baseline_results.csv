@@ -1,0 +1,2 @@
+Threshold,Accuracy,Precision,Recall,F1 Score,False Positives,False Negatives,FP Rate (%),FN Rate (%),Model Size (MB),Train Time (s),Inference Time (ms/sample)
+2004249.5153784377,0.7781492441525594,1.0,0.18392350018485024,0.31070166299787716,0,492250,0.0,81.60764998151498,0.0874,154.51461458206177,0.03250805220409072
